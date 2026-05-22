@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/secureml-au)
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/REMOTE-FIRST-22c55e?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0d1117"/>
-<img width="1308" height="312" alt="Image" src="https://github.com/user-attachments/assets/1b9de2cb-bc31-48b1-b230-97d97ae6beda" />
+<img width="1190" height="268" alt="Image" src="https://github.com/user-attachments/assets/7136dfcf-1807-47c2-b563-053d60b396c2" />
 
 <br/><br/>
 <!-- PROFILE VIEWS + SOCIALS -->
@@ -20,7 +20,7 @@
 ---
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/secureml-au/secureml-au/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mlsecdev/mlsecdev/output/snake.svg" alt="Snake animation" />
 </p>
 
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=secureml-au&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mlsecdev-au&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
