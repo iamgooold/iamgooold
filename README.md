@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=cybersec-dev-au&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/secureml-au)
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/REMOTE-FIRST-22c55e?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0d1117"/>
-<img width="1190" height="268" alt="Image" src="https://github.com/user-attachments/assets/7136dfcf-1807-47c2-b563-053d60b396c2" />
+<img width="1183" height="276" alt="Image" src="https://github.com/user-attachments/assets/47f47a78-52dc-49c1-aad5-65e174ed1962" />
 
 <br/><br/>
 <!-- PROFILE VIEWS + SOCIALS -->
