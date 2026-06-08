@@ -21,7 +21,7 @@
 
 > 🏆 Contest Rating: `N/A` · Global Rank: `#N/A`
 >
-> 🔄 *Auto-updated: 2026-06-07 19:23 UTC*
+> 🔄 *Auto-updated: 2026-06-08 04:04 UTC*
 <!-- LEETCODE:END -->
 ---
 
