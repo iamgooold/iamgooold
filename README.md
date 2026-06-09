@@ -15,13 +15,13 @@
 | Difficulty | Solved | Total |
 |:----------:|:------:|:-----:|
 | 🟢 Easy    | 409 | 949 |
-| 🟡 Medium  | 233 | 2066 |
+| 🟡 Medium  | 233 | 2067 |
 | 🔴 Hard    | 76 | 942 |
-| **Total**  | **718** | **3957** |
+| **Total**  | **718** | **3958** |
 
 > 🏆 Contest Rating: `N/A` · Global Rank: `#N/A`
 >
-> 🔄 *Auto-updated: 2026-06-09 14:53 UTC*
+> 🔄 *Auto-updated: 2026-06-09 20:08 UTC*
 <!-- LEETCODE:END -->
 ---
 
