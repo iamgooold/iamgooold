@@ -14,14 +14,14 @@
 ### 🧩 LeetCode Stats
 | Difficulty | Solved | Total |
 |:----------:|:------:|:-----:|
-| 🟢 Easy    | 400 | 949 |
-| 🟡 Medium  | 232 | 2066 |
+| 🟢 Easy    | 409 | 949 |
+| 🟡 Medium  | 233 | 2066 |
 | 🔴 Hard    | 76 | 942 |
-| **Total**  | **708** | **3957** |
+| **Total**  | **718** | **3957** |
 
 > 🏆 Contest Rating: `N/A` · Global Rank: `#N/A`
 >
-> 🔄 *Auto-updated: 2026-06-09 03:35 UTC*
+> 🔄 *Auto-updated: 2026-06-09 09:45 UTC*
 <!-- LEETCODE:END -->
 ---
 
