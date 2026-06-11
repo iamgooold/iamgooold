@@ -177,7 +177,7 @@
 </div>
 
 ---
-<img width="1536" height="861" alt="Image" src="https://github.com/user-attachments/assets/7b43b860-c88c-41fe-ad2b-20f1e30d72aa" />
+<img width="1571" height="926" alt="Image" src="https://github.com/user-attachments/assets/c5503fc7-7800-4b3d-b26f-5f9d6a4634f8" />
 
 <div align="center">
 
