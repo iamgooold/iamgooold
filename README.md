@@ -3,8 +3,8 @@
 <br/>
 
 
-<img width="296" height="213" alt="Image" src="https://github.com/user-attachments/assets/7c015069-8e67-493d-b64c-b9e9f3d86f38" />
-<img width="482" height="220" alt="Image" src="https://github.com/user-attachments/assets/bcf0188c-6f54-4196-ba6c-fe850a41a727" />
+<img width="303" height="220" alt="Image" src="https://github.com/user-attachments/assets/260a6e3b-e42b-429b-929d-9bccf883cbcb" />
+<img width="416" height="185" alt="Image" src="https://github.com/user-attachments/assets/bdc3f47d-36d1-438e-a7a5-2cfd1b31ae59" />
 <img width="646" height="128" alt="Image" src="https://github.com/user-attachments/assets/f6ff63f4-c034-4a27-85c2-cca6874d0a03" />
 
 <!-- STATUS BADGES ROW -->
