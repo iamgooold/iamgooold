@@ -23,7 +23,7 @@
 ---
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mlsecdev/mlsecdev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iamgooold/iamgooold/output/snake.svg" alt="Snake animation" />
 </p>
 
 
